@@ -15,7 +15,7 @@ I'm a driven and proficient fresher with expertise in programming languages incl
 
 <!-- Contact Information -->
 ## Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile](linkedin.com/in/murali-oct5/)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/murali-oct5/)
 - **Email:** muralikrishna.r05@gmail.com
 
 
