@@ -12,6 +12,14 @@ I'm a driven and proficient fresher with expertise in programming languages incl
 
 🌱 Currently seeking an entry-level position to apply my skills in programming languages and data visualization for impactful projects. Eager to contribute to innovative solutions while continuously learning and growing in the field of technology.
 
+
+<!-- Contact Information -->
+## Let's Connect!
+- **LinkedIn:** [Your LinkedIn Profile](linkedin.com/in/murali-oct5/)
+- **Email:** muralikrishna.r05@gmail.com
+
+
+
 <p align="left">
 </p>
 
@@ -54,11 +62,6 @@ I'm a driven and proficient fresher with expertise in programming languages incl
 ## Language Skills
 - Bilingual in English, Hindi, and Telugu
 - Conversational Proficiency in Tamil and Kannada
-
-<!-- Contact Information -->
-## Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **Email:** muralikrishna.r05@gmail.com
 
 
 
