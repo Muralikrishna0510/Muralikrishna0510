@@ -1,7 +1,7 @@
 <!-- Header -->
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*KnV1cBSw-kWyh7Y6XEEzrA.jpeg" alt="Header Image" width="450" height="300">
+  <img src="https://i.pinimg.com/564x/d2/bd/2f/d2bd2fc7c604b0384f06f3c0d594b087.jpg" alt="Header Image" width="450" height="300">
 </p>
 
 <!-- Title -->
@@ -12,12 +12,13 @@ I'm a driven and proficient fresher with expertise in programming languages incl
 
 🌱 Currently seeking an entry-level position to apply my skills in programming languages and data visualization for impactful projects. Eager to contribute to innovative solutions while continuously learning and growing in the field of technology.
 
-
 <!-- Contact Information -->
-## Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/murali-oct5/)
-- **Email:** muralikrishna.r05@gmail.com
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/adityajaiswal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
+  
+  📫 How to reach me **muralikrishna.r05@gmail.com**
 
 
 <p align="left">
