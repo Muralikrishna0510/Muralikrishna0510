@@ -36,7 +36,6 @@ Driven and proficient fresher skilled in Python, SQL, HTML, CSS, data manipulati
     "Application Software": ["Microsoft Excel", "Word", "Outlook"],
 }
 ```
-
 <!-- Academic Projects -->
 ## Academic Projects
 ### Major Projects
@@ -47,10 +46,7 @@ Driven and proficient fresher skilled in Python, SQL, HTML, CSS, data manipulati
 - **Deep Learning For Recognizing Human Activities Using Motions Of Skeletal Joints**
   - Created ’Deep Learning for Recognizing Human Activities Using Motions of Skeletal Joints’ for intelligent action recognition, utilizing depth sensors for skeletal data extraction.
 
-<!-- Language Skills -->
-## Language Skills
-- Bilingual in English, Hindi, and Telugu
-- Conversational Proficiency in Tamil and Kannada
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 
