@@ -1,17 +1,19 @@
 <!-- Header -->
-# Hi there! 👋 I'm [Murali Krishna Ravikumar]!
+<div align="center">
+   <h1>Hi there, I'm Murali krishna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>  
 
 Driven and proficient fresher skilled in Python, SQL, HTML, CSS, data manipulation, and visualization with NumPy, Pandas, Matplotlib. Proficient in Django web development. Seeking entry-level position to apply skills in programming and data visualization for impactful projects, eager to contribute to innovation and continual learning.
 
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://i.pinimg.com/564x/d2/bd/2f/d2bd2fc7c604b0384f06f3c0d594b087.jpg" />
 <p
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/murali-oct5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murali-oct5" height="30" width="40" /></a> 
-<p align="left">
-📫 How to reach me **muralikrishna.r05@gmail.com**
-  <p align="right">
-  <img src="https://i.pinimg.com/564x/d2/bd/2f/d2bd2fc7c604b0384f06f3c0d594b087.jpg" alt="Header Image" width="450" height="300">
 </p>
 
+-📫 How to reach me **muralikrishna.r05@gmail.com**
+ 
 
 <p align="left">
 </p>
