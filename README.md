@@ -8,8 +8,7 @@
 # Hi there! 👋 I'm [Murali Krishna Ravikumar]!
 
 <!-- Introduction -->
-I'm a driven and proficient fresher with expertise in programming languages including Python, SQL, HTML, and CSS. Skilled in data manipulation and visualization using Python libraries such as NumPy, Pandas, and Matplotlib. Proficient in web development utilizing Django framework. 
-🌱 Currently seeking an entry-level position to apply my skills in programming languages and data visualization for impactful projects. Eager to contribute to innovative solutions while continuously learning and growing in the field of technology.
+Driven and proficient fresher skilled in Python, SQL, HTML, CSS, data manipulation, and visualization with NumPy, Pandas, Matplotlib. Proficient in Django web development. Seeking entry-level position to apply skills in programming and data visualization for impactful projects, eager to contribute to innovation and continual learning.
 
 <!-- Contact Information -->
 
@@ -43,7 +42,6 @@ I'm a driven and proficient fresher with expertise in programming languages incl
 }
 ```
 
-
 <!-- Academic Projects -->
 ## Academic Projects
 ### Major Projects
@@ -53,13 +51,6 @@ I'm a driven and proficient fresher with expertise in programming languages incl
 ### Minor Project
 - **Deep Learning For Recognizing Human Activities Using Motions Of Skeletal Joints**
   - Created ’Deep Learning for Recognizing Human Activities Using Motions of Skeletal Joints’ for intelligent action recognition, utilizing depth sensors for skeletal data extraction.
-
-<!-- Certifications -->
-## Certifications
-- Python Certificate - Skillup by Simplilearn
-- Python Libraries For Data Science – Skillup by Simplilearn
-- Data Visualization With Python – Cognitive Class.ai
-- Embedded System Design and Programming – ARM University Program Training Course
 
 <!-- Language Skills -->
 ## Language Skills
