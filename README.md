@@ -41,12 +41,12 @@ Driven and proficient fresher skilled in Python, SQL, HTML, CSS, data manipulati
 <!-- Academic Projects -->
 ## Academic Projects
 ### Major Projects
-- **Jarvis - A Virtual Home Assistant**
-  - Led the development of ’Jarvis - A virtual home assistant,’ leveraging AI and NLP technologies to automate household tasks and control appliances via voice commands, showcasing innovation and proficiency in cutting-edge technologies.
+**Jarvis - A Virtual Home Assistant**
+-"Innovatively led the development of 'Jarvis - A virtual home assistant,' a project aimed at leveraging AI and NLP technologies to automate household tasks and control appliances through diverse commands. Demonstrated proficiency in AI and NLP, showcasing a commitment to advancing automation for enhanced convenience and efficiency in daily life."
 
 ### Minor Project
-- **Deep Learning For Recognizing Human Activities Using Motions Of Skeletal Joints**
-  - Created ’Deep Learning for Recognizing Human Activities Using Motions of Skeletal Joints’ for intelligent action recognition, utilizing depth sensors for skeletal data extraction.
+**Deep Learning For Recognizing Human Activities Using Motions Of Skeletal Joints**
+-"Developed an intelligent human action recognition system titled 'Deep Learning for Recognizing Human Activities Using Motions of Skeletal Joints.' Utilized depth sensors to extract human skeletal data and applied advanced techniques in image processing and deep learning. Aimed to automatically recognize daily human activities, showcasing proficiency in integrating diverse technologies for real-world applications." 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
