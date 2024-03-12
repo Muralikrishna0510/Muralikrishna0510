@@ -1,14 +1,11 @@
 <!-- Header -->
+# Hi there! 👋 I'm [Murali Krishna Ravikumar]!
 
-<p align="center">
+Driven and proficient fresher skilled in Python, SQL, HTML, CSS, data manipulation, and visualization with NumPy, Pandas, Matplotlib. Proficient in Django web development. Seeking entry-level position to apply skills in programming and data visualization for impactful projects, eager to contribute to innovation and continual learning.
+<p align="right">
   <img src="https://i.pinimg.com/564x/d2/bd/2f/d2bd2fc7c604b0384f06f3c0d594b087.jpg" alt="Header Image" width="450" height="300">
 </p>
 
-<!-- Title -->
-# Hi there! 👋 I'm [Murali Krishna Ravikumar]!
-
-<!-- Introduction -->
-Driven and proficient fresher skilled in Python, SQL, HTML, CSS, data manipulation, and visualization with NumPy, Pandas, Matplotlib. Proficient in Django web development. Seeking entry-level position to apply skills in programming and data visualization for impactful projects, eager to contribute to innovation and continual learning.
 
 <!-- Contact Information -->
 
