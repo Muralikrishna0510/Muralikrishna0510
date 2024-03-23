@@ -3,7 +3,7 @@
    <h1>Hi there, I'm Murali krishna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>  
 
-Driven and proficient fresher skilled in Python, SQL, HTML, CSS, data manipulation, and visualization with NumPy, Pandas, Matplotlib. Proficient in Django web development. Seeking entry-level position to apply skills in programming and data visualization for impactful projects, eager to contribute to innovation and continual learning.
+Welcome to my GitHub repository! I'm a passionate MERN Stack developer, specializing in building robust and dynamic web applications. This repository showcases my expertise in MongoDB, Express.js, React.js, and Node.js.
 
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://i.pinimg.com/564x/d2/bd/2f/d2bd2fc7c604b0384f06f3c0d594b087.jpg" />
