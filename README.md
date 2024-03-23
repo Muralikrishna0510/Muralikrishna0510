@@ -24,18 +24,21 @@ Welcome to my GitHub repository! I'm a passionate MERN Stack developer, speciali
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```Python
+
+                                                MERN STACK WEB DEVELOPER
+
  Murali krishna = {
     "pronouns": ("he", "him"),
 
-    "code": ["Python", "SQL", "HTML", "CSS"],
+    "Code": ["Python", "HTML", "CSS", "JavaScript, "SQL",],
+
+    "Technologies/Frameworks:": ["ReactJS", "NodeJs", "ExpressJS", "Git", "GitHub"],
+
+    "Database": ["MySQL", "NoSQL", "MangoDB"],
 
     "Python Libraries": ["NumPy", "Pandas", "Matplotlib"],
 
-    "Web Frameworks": ["Django", "Flask"],
-
-    "Version Control and IDE": ["Git", "Github", "Visual Studio Code", "Jupyter Note book"],
-
-    "Application Software": ["Microsoft Excel", "Word", "Outlook"],
+    "Developer Tools": ["Visual Studio Code", "Jupyter Note book"],
 }
 ```
 <!-- Academic Projects -->
