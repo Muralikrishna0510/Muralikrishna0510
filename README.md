@@ -30,7 +30,7 @@ Welcome to my GitHub repository! I'm a passionate MERN Stack developer, speciali
  Murali krishna = {
     "pronouns": ("he", "him"),
 
-    "Code": ["Python", "HTML", "CSS", "JavaScript, "SQL",],
+    "Code": ["Python", "HTML", "CSS", "JavaScript, "SQL"],
 
     "Technologies/Frameworks:": ["ReactJS", "NodeJs", "ExpressJS", "Git", "GitHub"],
 
