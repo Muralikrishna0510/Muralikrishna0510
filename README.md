@@ -12,14 +12,48 @@ Welcome to my GitHub repository! I'm a passionate MERN Stack developer, speciali
 <a href="https://linkedin.com/in/murali-oct5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murali-oct5" height="30" width="40" /></a> 
 </p>
 
--📫 How to reach me **muralikrishna.r05@gmail.com**
+-📫 How to reach me <a href="muralikrishna.r05@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="murali-oct5" height="25" width="60" /></a> 
  
-
 <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="36" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="36" alt="bootstrap logo"  />
+  <img width="8" />
+  <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" height="36" alt="bootstrap logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=express" height="36" alt="express logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height="36" alt="jupyter notebook"  />
+  <img width="8" />
+  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="36" alt="vs code"  />
+  <img width="8" />
+   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="36" alt="vs code"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="36" alt="git logo"  />
+</div>
+
+###
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -40,17 +74,7 @@ Welcome to my GitHub repository! I'm a passionate MERN Stack developer, speciali
 
     "Developer Tools": ["Visual Studio Code", "Jupyter Note book"],
 }
-```
-<!-- Academic Projects -->
-## Academic Projects
-### Major Projects
-**Jarvis - A Virtual Home Assistant**
--"Innovatively led the development of 'Jarvis - A virtual home assistant,' a project aimed at leveraging AI and NLP technologies to automate household tasks and control appliances through diverse commands. Demonstrated proficiency in AI and NLP, showcasing a commitment to advancing automation for enhanced convenience and efficiency in daily life."
-
-### Minor Project
-**Deep Learning For Recognizing Human Activities Using Motions Of Skeletal Joints**
--"Developed an intelligent human action recognition system titled 'Deep Learning for Recognizing Human Activities Using Motions of Skeletal Joints.' Utilized depth sensors to extract human skeletal data and applied advanced techniques in image processing and deep learning. Aimed to automatically recognize daily human activities, showcasing proficiency in integrating diverse technologies for real-world applications." 
-
+``` 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
