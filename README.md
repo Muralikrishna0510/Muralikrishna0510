@@ -31,9 +31,9 @@ Welcome to my GitHub repository! I'm a passionate MERN Stack developer, speciali
   <img width="8" />
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" height="36" alt="bootstrap logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="36" alt="react logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="36" alt="nodejs logo"  />
   <img width="8" />
