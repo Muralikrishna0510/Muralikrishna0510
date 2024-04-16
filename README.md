@@ -6,7 +6,7 @@
 Welcome to my GitHub repository! I'm a passionate MERN Stack developer, specializing in building robust and dynamic web applications. This repository showcases my expertise in MongoDB, Express.js, React.js, and Node.js.
 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://i.pinimg.com/564x/d2/bd/2f/d2bd2fc7c604b0384f06f3c0d594b087.jpg" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://i.pinimg.com/736x/68/83/3b/68833b5182d1acbb47a481d0c5fd8100.jpg" />
 <p
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/murali-oct5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murali-oct5" height="30" width="40" /></a> 
