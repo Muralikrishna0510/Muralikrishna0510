@@ -3,7 +3,7 @@
    <h1>Hi there, I'm Murali krishna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>  
 
-Welcome to my GitHub repository! I'm a passionate MERN Stack developer, specializing in building robust and dynamic web applications. This repository showcases my expertise in MongoDB, Express.js, React.js, and Node.js.
+Welcome to my GitHub repository! I'm a passionate Front End Developer, specializing in building robust and dynamic web applications.
 
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://i.pinimg.com/564x/d2/bd/2f/d2bd2fc7c604b0384f06f3c0d594b087.jpg" />
@@ -12,7 +12,9 @@ Welcome to my GitHub repository! I'm a passionate MERN Stack developer, speciali
 <a href="https://linkedin.com/in/murali-oct5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murali-oct5" height="30" width="40" /></a> 
 </p>
 
--📫 How to reach me <a href="muralikrishna.r05@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="murali-oct5" height="25" width="60" /></a> 
+-📫 How to reach me <a href="muralikrishna.r05@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="murali-oct5" height="25" width="60" /></a>
+
+Currently Learn MERN Stack Development
  
 <p align="left">
 </p>
